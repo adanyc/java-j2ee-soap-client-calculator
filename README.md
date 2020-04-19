@@ -1,3 +1,1 @@
-# Descripción
-Demo de un servicio SOAP con j2ee. Calculadora
-Cliente
+Java - J2EE SOAP Client - Calculator
